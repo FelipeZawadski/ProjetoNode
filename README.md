@@ -1,6 +1,6 @@
 # ProjetoNode
 
-<p align="center">Comandos nescessarios para a execução do projeto: </p>
+<p align="center">Comandos nescessarios para a execução do projeto</p>
 
 1. Realizar a instalação do Node.js, disponível no site do mesmo
 (https://nodejs.org/), a instalação inclui o Node.js e o NPM.
@@ -12,7 +12,7 @@
 7. Execução comando npm install sequelize.
 8. Executar o projeto node server.js
 
-<p align="center">Comandos para a execução no postman: </p>
+<p align="center">Comandos para a execução no postman</p>
 
 1. (Post) http://localhost:8080/api/pessoas
 2. (Delete) http://localhost:8080/api/pessoas/1
